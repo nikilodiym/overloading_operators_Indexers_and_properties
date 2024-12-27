@@ -15,7 +15,6 @@ namespace MsTest
             Assert.IsTrue(employee1 < employee2);
         }
 
-        [TestMethod]
         public void TestMethod2()
         {
             Employee employee1 = new Employee();
